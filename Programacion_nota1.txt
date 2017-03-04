@@ -1,0 +1,4 @@
+Cuando te sale en rojo
+uri="http://java.sun.com/jsp/jstl/core"
+
+es que faltan bibliotecas javax.servlet.(etc)
